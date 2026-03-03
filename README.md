@@ -5,7 +5,7 @@ In three body problem, we understand the motion of the system, which includes th
 
 ## What the repository contains  
 
-1. Code files on zero velocity curves, Lagrangian points, stability analysis
+1. Code files
 2. Presentation
 3. Thesis file   
 
